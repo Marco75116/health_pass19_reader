@@ -10,3 +10,6 @@ I have made some investigations and I found this website https://danstonpass.fr/
 The website's repository is https://github.com/borisflesch/dans-ton-pass, it was done in javascript i preferred to do it in python.
 
 
+![CustomQrcode](https://user-images.githubusercontent.com/83420479/147009731-a9a6d182-0dc8-426b-b13c-b86043db1069.png)
+![qrcodeMyGithub](https://user-images.githubusercontent.com/83420479/147009733-25c298b4-bb51-49b4-8fc0-8043c2f1fd33.png)
+
