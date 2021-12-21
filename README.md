@@ -4,6 +4,8 @@
 
 In this Repository there are scripts that allow you to create a qrcode, customize it and read it. 
 
+I used the following libraries : qrcode,cv2,flynn and base45.
+
 I thought it would be nice to see this for outside events or to integrate it into my future projects.
 Then I decided to read the information in the Health Pass 19 and I realised that the data is encoded. 
 I have made some investigations and I found this website https://danstonpass.fr/# which explains the way to get readable our informations.
